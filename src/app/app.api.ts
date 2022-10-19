@@ -1,0 +1,1 @@
+export const PROJETO_SENAC = 'http://localhost:3000';
